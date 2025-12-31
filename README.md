@@ -21,12 +21,12 @@ https://a.co/d/6xzFijX
 
 
 3) Assemble
-<img width="1000" height="1000" alt="step1" src="https://github.com/user-attachments/assets/e3507413-af92-455a-b31d-05749bde1127" />
-<img width="1000" height="1000" alt="step2" src="https://github.com/user-attachments/assets/ebc50524-363e-4ae6-a483-10ca2e803886" />
-<img width="1000" height="1000" alt="step3" src="https://github.com/user-attachments/assets/55b5ad2a-0440-4887-b611-4b0f0b83f31a" />
-<img width="1000" height="1000" alt="step4" src="https://github.com/user-attachments/assets/13dac208-f615-4efd-b3bf-68d306a1a1f7" />
-<img width="1000" height="1000" alt="step5" src="https://github.com/user-attachments/assets/fce039cf-0eab-4061-85c1-c21e5e8af83f" />
-<img width="1000" height="1000" alt="step6" src="https://github.com/user-attachments/assets/149bee49-ff72-4792-a0ed-4d7d14a1f877" />
+<img width="500" height="500" alt="step1" src="https://github.com/user-attachments/assets/e3507413-af92-455a-b31d-05749bde1127" />
+<img width="500" height="500" alt="step2" src="https://github.com/user-attachments/assets/ebc50524-363e-4ae6-a483-10ca2e803886" />
+<img width="500" height="500" alt="step3" src="https://github.com/user-attachments/assets/55b5ad2a-0440-4887-b611-4b0f0b83f31a" />
+<img width="500" height="500" alt="step4" src="https://github.com/user-attachments/assets/13dac208-f615-4efd-b3bf-68d306a1a1f7" />
+<img width="500" height="500" alt="step5" src="https://github.com/user-attachments/assets/fce039cf-0eab-4061-85c1-c21e5e8af83f" />
+<img width="500" height="500" alt="step6" src="https://github.com/user-attachments/assets/149bee49-ff72-4792-a0ed-4d7d14a1f877" />
 
 
 
