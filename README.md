@@ -31,3 +31,8 @@ https://a.co/d/6xzFijX
 
 
 4) Enjoy
+
+(undeniably the best super glue)
+https://a.co/d/0QNQEIl
+
+<img width="1174" height="649" alt="Screenshot 2025-12-31 at 10 44 24 AM" src="https://github.com/user-attachments/assets/7216546e-3207-4118-89bc-aac070436d9e" />
