@@ -1,5 +1,7 @@
 # Free-iPhone-17-Pro-Wireless-Charging-Stand
-Everything you need is right here.
+Designed for Apple 60W USB-C Charge Cable
+
+https://www.apple.com/shop/product/mw493am/a/60w-usb-c-charge-cable-1-m
 
 
 
